@@ -5,4 +5,4 @@ command = "hugo --gc --minify"
 [build.environment]
 HUGO_VERSION = "0.115.1"
 GO_VERSION = "1.20.5"
-HUGO_BASEURL = "https://localhost:1313/"
+HUGO_BASEURL = "/"
