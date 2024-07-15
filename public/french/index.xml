@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andromeda - Software and SAAS Landing Hugo Theme</title>
+    <link>http://localhost:43961/andromeda/site/french/</link>
+    <description>Recent content on Andromeda - Software and SAAS Landing Hugo Theme</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>Designed By [Themefisher](https://themefisher.com/) &amp; Developed By [Gethugothemes](https://gethugothemes.com/)</copyright>
+    <lastBuildDate>Sat, 14 Jan 2023 00:00:00 -0500</lastBuildDate>
+    <atom:link href="http://localhost:43961/andromeda/site/french/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Journal des modifications</title>
+      <link>http://localhost:43961/andromeda/site/french/changelog/</link>
+      <pubDate>Sat, 14 Jan 2023 00:00:00 -0500</pubDate>
+      <guid>http://localhost:43961/andromeda/site/french/changelog/</guid>
+      <description>v1.0.4 (January 19,2020) changed&#xA;Enhance or improve User experience , our Site, or our Service.</description>
+    </item>
+    <item>
+      <title>Termes et Conditions</title>
+      <link>http://localhost:43961/andromeda/site/french/terms-and-conditions/</link>
+      <pubDate>Sat, 14 Jan 2023 00:00:00 -0500</pubDate>
+      <guid>http://localhost:43961/andromeda/site/french/terms-and-conditions/</guid>
+      <description>1. Definitions We collect certain identifying personal data when you sign up to our Service such as your name, email address, PayPal address (if different from email address), and telephone number.</description>
+    </item>
+    <item>
+      <title>À propos de</title>
+      <link>http://localhost:43961/andromeda/site/french/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:43961/andromeda/site/french/about/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Abdullah Al Shifat</title>
+      <link>http://localhost:43961/andromeda/site/french/author/abdullah-al-shifat/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:43961/andromeda/site/french/author/abdullah-al-shifat/</guid>
+      <description>Hic dolor cumque quod quas pariatur modi rerum qui consequatur, iusto inventore necessitatibus.</description>
+    </item>
+    <item>
+      <title>Choisissez le prix</title>
+      <link>http://localhost:43961/andromeda/site/french/pricing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:43961/andromeda/site/french/pricing/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Comment ça fonctionne</title>
+      <link>http://localhost:43961/andromeda/site/french/how-it-works/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:43961/andromeda/site/french/how-it-works/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:43961/andromeda/site/french/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:43961/andromeda/site/french/contact/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Derick Barker</title>
+      <link>http://localhost:43961/andromeda/site/french/author/derick-barker/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:43961/andromeda/site/french/author/derick-barker/</guid>
+      <description>Facilis architecto quis maxime nam at, optio harum a velit nulla repellat ad culpa dolorem ab ducimus, porro enim fugit incidunt expedita.</description>
+    </item>
+    <item>
+      <title>Elements</title>
+      <link>http://localhost:43961/andromeda/site/french/elements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:43961/andromeda/site/french/elements/</guid>
+      <description>H1 Heading H2 Heading H3 Heading H4 Heading H5 Heading H6 Heading Paragraph Did you come here for something in particular or just general Riker-bashing?</description>
+    </item>
+    <item>
+      <title>signin</title>
+      <link>http://localhost:43961/andromeda/site/french/signin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:43961/andromeda/site/french/signin/</guid>
+      <description>Rejoignez plus de 30000 entreprises validant Proto Decision avec Andromeda</description>
+    </item>
+    <item>
+      <title>Signup</title>
+      <link>http://localhost:43961/andromeda/site/french/signup/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:43961/andromeda/site/french/signup/</guid>
+      <description>Rejoignez plus de 30000 entreprises validant Proto Decision avec Andromeda</description>
+    </item>
+  </channel>
+</rss>
